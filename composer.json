@@ -1,0 +1,10 @@
+{
+  "require": {
+    "php": ">=5.4",
+    "johnpbloch/wordpress": ">=4.6",
+    "vlucas/phpdotenv": "*"
+  },
+  "extra": {
+    "wordpress-install-dir": "wp"
+  }
+}

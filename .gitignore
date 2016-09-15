@@ -1,0 +1,11 @@
+.DS_Store
+.vscode
+/vendor/*
+/node_modules/*
+/.env
+/.htaccess
+/wp/*
+/wp-content/uploads
+.sass-cache
+config.codekit
+debug.log
